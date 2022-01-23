@@ -18,7 +18,7 @@ export const getPlacesData = async (type, sw, ne) => {
         headers: {
           'x-rapidapi-host': 'travel-advisor.p.rapidapi.com',
           'x-rapidapi-key':
-            '881cb180e0msh44ea5e0f8d13f79p1c17e6jsn7a48e5be9119',
+            '',
         },
       }
     )
